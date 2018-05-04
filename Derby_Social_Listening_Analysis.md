@@ -6,11 +6,11 @@ May 4, 2018
 Which Kentucky Derby horses are generating the most buzz?
 =========================================================
 
-Social media analytics provides a great way to understand the online conversation happening around a particular topic, or about your brand and it's competitors.
+Social media analytics provides a great way to understand the online conversation happening around a particular topic, or about your brand and its competitors.
 
 Using the latest in social listening technology, we thought it would be fun to take a look at the social media buzz surrounding each of the horses competing in 144th Kentucky Derby.
 
-In this competitive analysis we used a powerful social listening tool called Crimson Hexagon to examine all of the tweets generated over the past 7 days that contain the name of an indivdual derby horse + the word "derby". We classified each tweet according to its sentiment, meaning we classified the conversation about a particular horse as positive, neutral, or negative. And finally, to add another layer of insight, we overlaid the morning line odds for each horse.
+In this competitive analysis we used a powerful social listening tool called Crimson Hexagon to examine all of the tweets generated over the past 7 days that contain the name of an individual derby horse + the word "derby". We classified each tweet according to its sentiment, meaning we classified the conversation about a particular horse as positive, neutral, or negative. And finally, to add another layer of insight, we overlaid the morning line odds for each horse.
 
 ``` r
 # 2018 Kentucky Derby (144th) - Social Listening Analytics Visualization Demo
@@ -97,8 +97,8 @@ dev.off()
 
 ### Insights
 
-Visualizing the data provides a quick and easy way to understand the trends among the competitors. We can quickly see that several of the "favorites" have generate a much larger volume of tweets over the past week. In addition, we can see that horses with better odds are generating a more positive buzz in the days leading up to the big race.
+Visualizing the data provides a quick and easy way to understand the trends among the competitors. We can quickly see that several of the "favorites" have generated a much larger volume of tweets over the past week. In addition, we can see that horses with better odds are generating a more positive buzz in the days leading up to the big race.
 
 This type of analysis allows for the identification of brand ambiguity in the marketplace. For example, we can see that the backup horse, Blended Citizen, has generated conversation, but it is nearly entirely made up of neutral comments, meaning that consumers don't know much about this horse. This type of result may indicate a lack of brand awareness.
 
-We can also use this vizualization to identify oppotunities. For instance, there are a few horses with moderate buzz that look like betting bargains. My Boy Jack, for example, has a relatively high volume of conversation comapred to most of the other horses, but is valued at 30-1 odds. This horse might be a good one to watch on race day.
+We can also use this visualization to identify opportunities. For instance, there are a few horses with moderate buzz that look like betting bargains. My Boy Jack, for example, has a relatively high volume of conversation compared to most of the other horses, but is valued at 30-1 odds. This horse might be a good one to watch on race day.
